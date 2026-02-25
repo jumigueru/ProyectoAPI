@@ -5,7 +5,7 @@ from ui import pedir_datos_usuario, mostrar_resultados, menu , informacion_depar
 
 
 
-def ejecucion_principal():\
+def ejecucion_principal():
 
     opcion = menu()
     if opcion == 1:
